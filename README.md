@@ -22,12 +22,19 @@ Queremos que você implemente um servidor que receberá inscrições em um formu
 ### Regras de negócio
 
 **1 -** A inscrição só deve ser feita com um email válido.
+
 **2 -** Não devem ser registradas linhas duplicadas com o mesmo email no banco de dados.
+
 **3 -** A propriedade "position" da tabela "message_flow" indica o dia em que a mensagem deve ser enviada.
+
 **4 -** A propriedade "last_message" da tabela "subscriptions" indica a última mensagem enviada para aquela inscrição.
+
 **5 -** A propriedade "last_message" deve ser atualizada todos os dias com a próxima mensagem do fluxo.
+
 **6 -** A propriedade "last_message" não deve ser atualizada em inscrições marcadas com "active" igual a "false".
+
 **7 -** Caso a inscrição já tenha recebido todas as mensagens do fluxo, a propriedade "active" deve ser marcada como "false".
+
 
 ### Dados
 
