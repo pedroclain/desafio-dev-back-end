@@ -17,7 +17,7 @@ Queremos que você implemente um servidor que receberá inscrições em um formu
 
 **Disparo de mensagens:** Também precisamos de um serviço periódico que seja executado uma vez ao dia, sempre no mesmo horário, para atualizar no banco de dados qual a última mensagem disparada para cada inscrição.
 
-**Observação:** O desafio deve ser desenvolvido utilizando JavaScript. Fica a seu critério qual banco de dados utilizar, desde que faça sentido ao desafio proposto.
+**Observação:** O desafio deve ser desenvolvido utilizando Javascript/Typescript. Fica a seu critério qual banco de dados utilizar, desde que faça sentido ao desafio proposto.
 
 ### Regras de negócio
 
