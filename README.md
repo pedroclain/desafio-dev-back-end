@@ -38,7 +38,7 @@ Queremos que você implemente um servidor que receberá inscrições em um formu
 
 ### Dados
 
-Para te ajudar a entender um pouco melhor, essas são as três entidades necessárias para você resolver o seu desafio.
+Para te ajudar a entender um pouco melhor, essas são as duas entidades necessárias para você resolver o seu desafio.
 
 <p align="center">
   <img  src="./assets/database.png">
