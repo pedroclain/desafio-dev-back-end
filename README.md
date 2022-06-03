@@ -11,7 +11,7 @@
 
 Para você ja ir se aquecendo para o que está por vir, queremos propor um desafio para você.
 
-Queremos que você implemente um servidor que receberá inscrições em um formulário. A partir das regras de negócio definidas, você precisará construir uma API REST que realize a inscrição, caso ela seja válida, deverá ser armazenado os dados em um banco de dados relacional.
+Queremos que você implemente um servidor que receberá inscrições em um formulário. A partir das regras de negócio definidas, você precisará construir uma API REST que realize a inscrição, caso ela seja válida, armazenando os dados em um banco de dados relacional.
 
 **Inscrição no fluxo:** No sistema de captação de leads inbound temos um formulário de inscrição em um fluxo de mensagens com notícias e informações sobre os precatórios de nossos credores. Para isso, precisamos de uma API capaz de receber a inscrição pelo formulário e realizar o registro no banco de dados.
 
